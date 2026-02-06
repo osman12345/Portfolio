@@ -3,14 +3,13 @@ Hi there! I’m Ayman Osman, a bioinformatician specializing in multi-omics rese
 
 ## Projects
 - [sRNAtlas](https://github.com/osman12345/sRNAtlas/tree/main) is a powerful, user-friendly application for comprehensive small RNA sequencing (sRNA-seq) data analysis.
+- [EpiNexus](https://github.com/osman12345/EpiNexus): A comprehensive epigenomics analysis platform for ChIP-seq, CUT&Tag, CUT&RUN, and ATAC-seq data. Analyze histone modifications, transcription factor binding, and chromatin accessibility with an intuitive web interface.
 - [RNAseq Differential Expression Analysis Shiny App](https://github.com/osman12345/RNAseq_analysis) This tool performs RNAseq differential expression analysis using edgeR and limma. It allows users to upload count data and sample metadata, choose species, and then run the analysis. The app generates diagnostic plots and tables for visualization and lets users download the differential expression results.
   
   Link to the app:
   [https://vvr6z0-ayman-osman.shinyapps.io/rnaseq_analysis/](https://vvr6z0-ayman-osman.shinyapps.io/rnaseq_analysis/)
 
-- [DNA to Protein Translation Tool](https://github.com/osman12345/DNA-to-Protein-Translation-Tool)
-
-  The DNA to Protein Translation Tool is a simple web-based application that translates a given DNA sequence into its corresponding protein sequences.
+- [DNA to Protein Translation Tool](https://github.com/osman12345/DNA-to-Protein-Translation-Tool) is a simple web-based application that translates a given DNA sequence into its corresponding protein sequences.
 - [Multi-Omics Data Integration](https://github.com/osman12345/Multi-Omics-Data-Integration): Leading a project that integrates genomic, transcriptomic, and epigenomics data to identify biomarkers and therapeutic targets in heart diseases. Developing analysis pipelines using bash and R/Bioconductor packages.
 - [ChIP-Seq Data Analysis](https://github.com/osman12345/ChIP-Seq-Data-Analysis): Chip-seq data analysis using R/bioconductor.
 - [CUT&Tag data analysis](https://github.com/osman12345/CutTag), specifically for histone modifications, using HPC systems.
